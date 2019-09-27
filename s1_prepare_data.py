@@ -16,17 +16,30 @@ class Prepare_Data():
         
         
     def login_and_choose_database(self, database):
+    '''
+    login clickhouse in notebooks. Using 'database' to choose target database you want.
+    '''
         self.client = Client(host = self.host, port = self.port, database = database, user = self.user)
         logging.info('login database: %s', database)
 
 
     def raw_query(self, query): 
+    '''
+    for adhoc query if needed
+    '''
         logging.info('run query: %s', query)
         ans = self.client.execute(query)
         return ans
 
 
     def create_table(self, table_name, columns, engine, ordered_column):
+    '''
+    create table:
+    table_name: your new table name;
+    columns: columns for you new table;
+    engine: e.g. MergeTree;
+    ordered_column: needed for query 'sort by'
+    '''
         logging.info('create table: %s', table_name)
         sql = [
         "CREATE TABLE IF NOT EXISTS " + table_name + '\n'
@@ -43,6 +56,9 @@ class Prepare_Data():
         
     
     def get_random_sample(self, current_table, new_table, num_cases, ordered_column, selected_columns, engine = 'MergeTree'):
+    '''
+    random sample from current dataset    
+    '''
         logging.info('create sample table: %s', new_table)
         sql = [
         "CREATE TABLE IF NOT EXISTS " + new_table + '\n'
