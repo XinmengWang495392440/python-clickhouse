@@ -4,7 +4,7 @@
     - insert data
     - sample data
     - merge table
-    - export file
+    - export data
 
 
 ## py list
