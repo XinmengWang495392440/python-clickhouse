@@ -74,6 +74,9 @@ class Prepare_Data():
         
         
     def get_dataframe_head(self, table_name):
+        '''
+        a quick overview of table in dataframe
+        '''
         sql = [
         "SELECT * FROM " + table_name + '\n'
         " LIMIT 5"]
