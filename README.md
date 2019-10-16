@@ -28,7 +28,18 @@
     
     
 ## folder structure and test process
-- insert_data: insert 83 raw tables into clickhouse
+- insert_data: insert 83 raw tables into clickhouse, track by databases
+    - PDM
+    - PDMDMT
+    - BCG
+    - CDA
+    - CIM
+    - DEC
+    - ISU
+    - OPA
+    - OLA
+    - IMG
+    - BRT
 - feature_test: feature testing track folders by date
     - 20191104
     - 20191105
