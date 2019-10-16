@@ -10,7 +10,7 @@ display ('input current date: ')
 time = input()
 
 log_settings = {
-    'filename': 'log/log_{}'.format(time),
+    'filename': '../log/log_{}'.format(time),
     'format': '%(asctime)s - %(pathname)s:%(lineno)d - ' \
         '%(levelname)s: %(message)s',
 #    'mode':'a',
