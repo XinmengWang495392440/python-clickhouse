@@ -48,4 +48,10 @@
 - log: logs of code
 - scrip: py code
     
+## testing process
+- 测试字段名：e.g. 是否员工
+- 字段衍生逻辑文字说明
+- python+sql代码
+- 结果比对
+具体参见对应[notebook](https://git.creditx.com/wangxm/clickhouse_python/blob/master/test_sample/02_feature_test.ipynb)
 
