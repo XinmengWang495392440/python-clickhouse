@@ -46,7 +46,7 @@
     - 20191106
     - ...
 - log: logs of code
-- scrip: py code
+- script: py code
     
 ## testing process
 - 测试字段名：e.g. 是否员工
