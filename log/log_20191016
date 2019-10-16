@@ -1,0 +1,110 @@
+2019-10-16 03:19:53,813 - /home/jupyter-wangxm/6_clickhouse_raw_data/script/s1_prepare_data.py:23 - INFO: login database: python_clickhouse_test
+2019-10-16 03:19:54,338 - /home/jupyter-wangxm/6_clickhouse_raw_data/script/s1_prepare_data.py:30 - INFO: run query: show tables;
+2019-10-16 03:20:05,759 - /home/jupyter-wangxm/6_clickhouse_raw_data/script/s1_prepare_data.py:43 - INFO: create table: basic_table
+2019-10-16 03:20:09,979 - /home/jupyter-wangxm/6_clickhouse_raw_data/script/s1_prepare_data.py:43 - INFO: create table: fraud_case_table
+2019-10-16 03:20:15,193 - /home/jupyter-wangxm/6_clickhouse_raw_data/script/s1_prepare_data.py:43 - INFO: create table: account_table
+2019-10-16 03:20:19,223 - /home/jupyter-wangxm/6_clickhouse_raw_data/script/s1_prepare_data.py:43 - INFO: create table: information_table
+2019-10-16 03:20:38,059 - /opt/tljh/user/lib/python3.6/site-packages/IPython/core/alias.py:221 - ERROR: Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-10-16 03:20:38,059 - /opt/tljh/user/lib/python3.6/site-packages/IPython/core/alias.py:221 - ERROR: Invalid alias: The name more can't be aliased because it is another magic command.
+2019-10-16 03:20:38,060 - /opt/tljh/user/lib/python3.6/site-packages/IPython/core/alias.py:221 - ERROR: Invalid alias: The name less can't be aliased because it is another magic command.
+2019-10-16 03:20:38,060 - /opt/tljh/user/lib/python3.6/site-packages/IPython/core/alias.py:221 - ERROR: Invalid alias: The name man can't be aliased because it is another magic command.
+2019-10-16 03:23:54,459 - /opt/tljh/user/lib/python3.6/site-packages/IPython/core/alias.py:221 - ERROR: Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-10-16 03:23:54,459 - /opt/tljh/user/lib/python3.6/site-packages/IPython/core/alias.py:221 - ERROR: Invalid alias: The name more can't be aliased because it is another magic command.
+2019-10-16 03:23:54,459 - /opt/tljh/user/lib/python3.6/site-packages/IPython/core/alias.py:221 - ERROR: Invalid alias: The name less can't be aliased because it is another magic command.
+2019-10-16 03:23:54,459 - /opt/tljh/user/lib/python3.6/site-packages/IPython/core/alias.py:221 - ERROR: Invalid alias: The name man can't be aliased because it is another magic command.
+2019-10-16 03:29:57,091 - /home/jupyter-wangxm/6_clickhouse_raw_data/script/s1_prepare_data.py:23 - INFO: login database: python_clickhouse_test
+2019-10-16 03:29:57,091 - /home/jupyter-wangxm/6_clickhouse_raw_data/script/s1_prepare_data.py:30 - INFO: run query: show tables;
+2019-10-16 03:32:45,290 - /home/jupyter-wangxm/6_clickhouse_raw_data/script/s1_prepare_data.py:23 - INFO: login database: test_database
+2019-10-16 03:32:45,290 - /home/jupyter-wangxm/6_clickhouse_raw_data/script/s1_prepare_data.py:30 - INFO: run query: show tables;
+2019-10-16 05:46:08,581 - /home/jupyter-wangxm/6_clickhouse_raw_data/script/s1_prepare_data.py:30 - INFO: run query: show tables from python_clickhouse_test;
+2019-10-16 05:46:24,101 - /home/jupyter-wangxm/6_clickhouse_raw_data/script/s1_prepare_data.py:30 - INFO: run query: desc basic_table;
+2019-10-16 05:46:31,016 - /home/jupyter-wangxm/6_clickhouse_raw_data/script/s1_prepare_data.py:30 - INFO: run query: desc python_clickhouse_test.basic_table;
+2019-10-16 05:46:37,461 - /home/jupyter-wangxm/6_clickhouse_raw_data/script/s1_prepare_data.py:30 - INFO: run query: desc python_clickhouse_test.merged_table_1;
+2019-10-16 05:47:04,271 - /opt/tljh/user/lib/python3.6/site-packages/IPython/core/alias.py:221 - ERROR: Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-10-16 05:47:04,271 - /opt/tljh/user/lib/python3.6/site-packages/IPython/core/alias.py:221 - ERROR: Invalid alias: The name more can't be aliased because it is another magic command.
+2019-10-16 05:47:04,271 - /opt/tljh/user/lib/python3.6/site-packages/IPython/core/alias.py:221 - ERROR: Invalid alias: The name less can't be aliased because it is another magic command.
+2019-10-16 05:47:04,271 - /opt/tljh/user/lib/python3.6/site-packages/IPython/core/alias.py:221 - ERROR: Invalid alias: The name man can't be aliased because it is another magic command.
+2019-10-16 05:48:49,099 - /home/jupyter-wangxm/6_clickhouse_raw_data/script/s1_prepare_data.py:23 - INFO: login database: test_database
+2019-10-16 05:48:49,100 - /home/jupyter-wangxm/6_clickhouse_raw_data/script/s1_prepare_data.py:30 - INFO: run query: show tables from CIM;
+2019-10-16 05:49:06,300 - /home/jupyter-wangxm/6_clickhouse_raw_data/script/s1_prepare_data.py:23 - INFO: login database: python_clickhouse_test
+2019-10-16 05:49:06,300 - /home/jupyter-wangxm/6_clickhouse_raw_data/script/s1_prepare_data.py:30 - INFO: run query: show tables;
+2019-10-16 05:49:09,929 - /home/jupyter-wangxm/6_clickhouse_raw_data/script/s1_prepare_data.py:30 - INFO: run query: show tables from python_clickhouse_test;
+2019-10-16 05:49:10,809 - /home/jupyter-wangxm/6_clickhouse_raw_data/script/s1_prepare_data.py:30 - INFO: run query: desc python_clickhouse_test.basic_table;
+2019-10-16 05:49:12,219 - /home/jupyter-wangxm/6_clickhouse_raw_data/script/s1_prepare_data.py:30 - INFO: run query: desc python_clickhouse_test.merged_table_1;
+2019-10-16 05:50:57,479 - /home/jupyter-wangxm/6_clickhouse_raw_data/script/s1_prepare_data.py:30 - INFO: run query: desc python_clickhouse_test.information_table;
+2019-10-16 05:55:40,025 - /opt/tljh/user/lib/python3.6/site-packages/IPython/core/alias.py:221 - ERROR: Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-10-16 05:55:40,025 - /opt/tljh/user/lib/python3.6/site-packages/IPython/core/alias.py:221 - ERROR: Invalid alias: The name more can't be aliased because it is another magic command.
+2019-10-16 05:55:40,025 - /opt/tljh/user/lib/python3.6/site-packages/IPython/core/alias.py:221 - ERROR: Invalid alias: The name less can't be aliased because it is another magic command.
+2019-10-16 05:55:40,025 - /opt/tljh/user/lib/python3.6/site-packages/IPython/core/alias.py:221 - ERROR: Invalid alias: The name man can't be aliased because it is another magic command.
+2019-10-16 05:55:46,814 - /home/jupyter-wangxm/6_clickhouse_raw_data/script/s1_prepare_data.py:23 - INFO: login database: python_clickhouse_test
+2019-10-16 05:55:46,814 - /home/jupyter-wangxm/6_clickhouse_raw_data/script/s1_prepare_data.py:30 - INFO: run query: show tables;
+2019-10-16 05:57:17,083 - /home/jupyter-wangxm/6_clickhouse_raw_data/script/s1_prepare_data.py:30 - INFO: run query: SELECT cust_id_basic, job FROM merged_table_1;
+2019-10-16 05:57:47,003 - /home/jupyter-wangxm/6_clickhouse_raw_data/script/s1_prepare_data.py:30 - INFO: run query: SELECT cust_id_basic, job FROM merged_table_1
+
+2019-10-16 05:58:18,323 - /home/jupyter-wangxm/6_clickhouse_raw_data/script/s1_prepare_data.py:30 - INFO: run query: SELECT cust_id_basic, job FROM merged_table_1
+
+2019-10-16 05:59:43,461 - /opt/tljh/user/lib/python3.6/site-packages/IPython/core/alias.py:221 - ERROR: Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-10-16 05:59:43,461 - /opt/tljh/user/lib/python3.6/site-packages/IPython/core/alias.py:221 - ERROR: Invalid alias: The name more can't be aliased because it is another magic command.
+2019-10-16 05:59:43,461 - /opt/tljh/user/lib/python3.6/site-packages/IPython/core/alias.py:221 - ERROR: Invalid alias: The name less can't be aliased because it is another magic command.
+2019-10-16 05:59:43,461 - /opt/tljh/user/lib/python3.6/site-packages/IPython/core/alias.py:221 - ERROR: Invalid alias: The name man can't be aliased because it is another magic command.
+2019-10-16 06:00:12,854 - /home/jupyter-wangxm/6_clickhouse_raw_data/script/s1_prepare_data.py:23 - INFO: login database: python_clickhouse_test
+2019-10-16 06:00:12,855 - /home/jupyter-wangxm/6_clickhouse_raw_data/script/s1_prepare_data.py:30 - INFO: run query: show tables;
+2019-10-16 06:09:34,300 - /opt/tljh/user/lib/python3.6/site-packages/IPython/core/alias.py:221 - ERROR: Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-10-16 06:09:34,300 - /opt/tljh/user/lib/python3.6/site-packages/IPython/core/alias.py:221 - ERROR: Invalid alias: The name more can't be aliased because it is another magic command.
+2019-10-16 06:09:34,300 - /opt/tljh/user/lib/python3.6/site-packages/IPython/core/alias.py:221 - ERROR: Invalid alias: The name less can't be aliased because it is another magic command.
+2019-10-16 06:09:34,300 - /opt/tljh/user/lib/python3.6/site-packages/IPython/core/alias.py:221 - ERROR: Invalid alias: The name man can't be aliased because it is another magic command.
+2019-10-16 06:09:52,054 - /home/jupyter-wangxm/6_clickhouse_raw_data/script/s1_prepare_data.py:23 - INFO: login database: python_clickhouse_test
+2019-10-16 06:09:52,055 - /home/jupyter-wangxm/6_clickhouse_raw_data/script/s1_prepare_data.py:30 - INFO: run query: show tables;
+2019-10-16 06:11:39,112 - /opt/tljh/user/lib/python3.6/site-packages/IPython/core/alias.py:221 - ERROR: Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-10-16 06:11:39,112 - /opt/tljh/user/lib/python3.6/site-packages/IPython/core/alias.py:221 - ERROR: Invalid alias: The name more can't be aliased because it is another magic command.
+2019-10-16 06:11:39,112 - /opt/tljh/user/lib/python3.6/site-packages/IPython/core/alias.py:221 - ERROR: Invalid alias: The name less can't be aliased because it is another magic command.
+2019-10-16 06:11:39,112 - /opt/tljh/user/lib/python3.6/site-packages/IPython/core/alias.py:221 - ERROR: Invalid alias: The name man can't be aliased because it is another magic command.
+2019-10-16 06:11:45,604 - /home/jupyter-wangxm/6_clickhouse_raw_data/script/s1_prepare_data.py:23 - INFO: login database: python_clickhouse_test
+2019-10-16 06:11:45,604 - /home/jupyter-wangxm/6_clickhouse_raw_data/script/s1_prepare_data.py:30 - INFO: run query: show tables;
+2019-10-16 06:12:55,017 - /opt/tljh/user/lib/python3.6/site-packages/IPython/core/alias.py:221 - ERROR: Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-10-16 06:12:55,017 - /opt/tljh/user/lib/python3.6/site-packages/IPython/core/alias.py:221 - ERROR: Invalid alias: The name more can't be aliased because it is another magic command.
+2019-10-16 06:12:55,017 - /opt/tljh/user/lib/python3.6/site-packages/IPython/core/alias.py:221 - ERROR: Invalid alias: The name less can't be aliased because it is another magic command.
+2019-10-16 06:12:55,017 - /opt/tljh/user/lib/python3.6/site-packages/IPython/core/alias.py:221 - ERROR: Invalid alias: The name man can't be aliased because it is another magic command.
+2019-10-16 06:13:03,511 - /home/jupyter-wangxm/6_clickhouse_raw_data/script/s1_prepare_data.py:23 - INFO: login database: python_clickhouse_test
+2019-10-16 06:13:03,512 - /home/jupyter-wangxm/6_clickhouse_raw_data/script/s1_prepare_data.py:30 - INFO: run query: show tables;
+2019-10-16 06:13:07,706 - /home/jupyter-wangxm/6_clickhouse_raw_data/script/s1_prepare_data.py:30 - INFO: run query: show tables from python_clickhouse_test;
+2019-10-16 06:13:08,296 - /home/jupyter-wangxm/6_clickhouse_raw_data/script/s1_prepare_data.py:30 - INFO: run query: desc python_clickhouse_test.information_table;
+2019-10-16 06:13:08,886 - /home/jupyter-wangxm/6_clickhouse_raw_data/script/s1_prepare_data.py:30 - INFO: run query: desc python_clickhouse_test.merged_table_1;
+2019-10-16 06:15:01,915 - /opt/tljh/user/lib/python3.6/site-packages/IPython/core/alias.py:221 - ERROR: Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-10-16 06:15:01,915 - /opt/tljh/user/lib/python3.6/site-packages/IPython/core/alias.py:221 - ERROR: Invalid alias: The name more can't be aliased because it is another magic command.
+2019-10-16 06:15:01,915 - /opt/tljh/user/lib/python3.6/site-packages/IPython/core/alias.py:221 - ERROR: Invalid alias: The name less can't be aliased because it is another magic command.
+2019-10-16 06:15:01,915 - /opt/tljh/user/lib/python3.6/site-packages/IPython/core/alias.py:221 - ERROR: Invalid alias: The name man can't be aliased because it is another magic command.
+2019-10-16 06:15:08,724 - /home/jupyter-wangxm/6_clickhouse_raw_data/script/s1_prepare_data.py:23 - INFO: login database: python_clickhouse_test
+2019-10-16 06:15:08,725 - /home/jupyter-wangxm/6_clickhouse_raw_data/script/s1_prepare_data.py:30 - INFO: run query: show tables;
+2019-10-16 06:15:12,564 - /home/jupyter-wangxm/6_clickhouse_raw_data/script/s1_prepare_data.py:30 - INFO: run query: show tables from python_clickhouse_test;
+2019-10-16 06:15:13,123 - /home/jupyter-wangxm/6_clickhouse_raw_data/script/s1_prepare_data.py:30 - INFO: run query: desc python_clickhouse_test.information_table;
+2019-10-16 06:15:13,543 - /home/jupyter-wangxm/6_clickhouse_raw_data/script/s1_prepare_data.py:30 - INFO: run query: desc python_clickhouse_test.merged_table_1;
+2019-10-16 06:17:06,849 - /opt/tljh/user/lib/python3.6/site-packages/IPython/core/alias.py:221 - ERROR: Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-10-16 06:17:06,849 - /opt/tljh/user/lib/python3.6/site-packages/IPython/core/alias.py:221 - ERROR: Invalid alias: The name more can't be aliased because it is another magic command.
+2019-10-16 06:17:06,849 - /opt/tljh/user/lib/python3.6/site-packages/IPython/core/alias.py:221 - ERROR: Invalid alias: The name less can't be aliased because it is another magic command.
+2019-10-16 06:17:06,849 - /opt/tljh/user/lib/python3.6/site-packages/IPython/core/alias.py:221 - ERROR: Invalid alias: The name man can't be aliased because it is another magic command.
+2019-10-16 06:17:16,828 - /home/jupyter-wangxm/6_clickhouse_raw_data/script/s1_prepare_data.py:23 - INFO: login database: python_clickhouse_test
+2019-10-16 06:17:16,829 - /home/jupyter-wangxm/6_clickhouse_raw_data/script/s1_prepare_data.py:30 - INFO: run query: show tables;
+2019-10-16 06:17:22,283 - /home/jupyter-wangxm/6_clickhouse_raw_data/script/s1_prepare_data.py:30 - INFO: run query: show tables from python_clickhouse_test;
+2019-10-16 06:17:22,973 - /home/jupyter-wangxm/6_clickhouse_raw_data/script/s1_prepare_data.py:30 - INFO: run query: desc python_clickhouse_test.information_table;
+2019-10-16 06:17:23,548 - /home/jupyter-wangxm/6_clickhouse_raw_data/script/s1_prepare_data.py:30 - INFO: run query: desc python_clickhouse_test.merged_table_1;
+2019-10-16 06:17:45,449 - /opt/tljh/user/lib/python3.6/site-packages/IPython/core/alias.py:221 - ERROR: Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-10-16 06:17:45,449 - /opt/tljh/user/lib/python3.6/site-packages/IPython/core/alias.py:221 - ERROR: Invalid alias: The name more can't be aliased because it is another magic command.
+2019-10-16 06:17:45,449 - /opt/tljh/user/lib/python3.6/site-packages/IPython/core/alias.py:221 - ERROR: Invalid alias: The name less can't be aliased because it is another magic command.
+2019-10-16 06:17:45,449 - /opt/tljh/user/lib/python3.6/site-packages/IPython/core/alias.py:221 - ERROR: Invalid alias: The name man can't be aliased because it is another magic command.
+2019-10-16 06:18:33,343 - /home/jupyter-wangxm/6_clickhouse_raw_data/script/s1_prepare_data.py:23 - INFO: login database: python_clickhouse_test
+2019-10-16 06:18:33,343 - /home/jupyter-wangxm/6_clickhouse_raw_data/script/s1_prepare_data.py:30 - INFO: run query: show tables;
+2019-10-16 06:19:47,685 - /opt/tljh/user/lib/python3.6/site-packages/IPython/core/alias.py:221 - ERROR: Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-10-16 06:19:47,685 - /opt/tljh/user/lib/python3.6/site-packages/IPython/core/alias.py:221 - ERROR: Invalid alias: The name more can't be aliased because it is another magic command.
+2019-10-16 06:19:47,685 - /opt/tljh/user/lib/python3.6/site-packages/IPython/core/alias.py:221 - ERROR: Invalid alias: The name less can't be aliased because it is another magic command.
+2019-10-16 06:19:47,685 - /opt/tljh/user/lib/python3.6/site-packages/IPython/core/alias.py:221 - ERROR: Invalid alias: The name man can't be aliased because it is another magic command.
+2019-10-16 06:20:23,553 - /home/jupyter-wangxm/6_clickhouse_raw_data/script/s1_prepare_data.py:23 - INFO: login database: test_database
+2019-10-16 06:20:23,554 - /home/jupyter-wangxm/6_clickhouse_raw_data/script/s1_prepare_data.py:30 - INFO: run query: show tables;
+2019-10-16 06:20:58,039 - /home/jupyter-wangxm/6_clickhouse_raw_data/script/s1_prepare_data.py:43 - INFO: create table: 1016STF_EMP_IND_1
+2019-10-16 06:21:29,069 - /home/jupyter-wangxm/6_clickhouse_raw_data/script/s1_prepare_data.py:43 - INFO: create table: _1016STF_EMP_IND_1
+2019-10-16 06:21:34,394 - /home/jupyter-wangxm/6_clickhouse_raw_data/script/s1_prepare_data.py:43 - INFO: create table: _1016_STF_EMP_IND_1
+2019-10-16 06:22:34,224 - /home/jupyter-wangxm/6_clickhouse_raw_data/script/s1_prepare_data.py:43 - INFO: create table: _1016_STF_EMP_IND_1
+2019-10-16 06:23:43,489 - /home/jupyter-wangxm/6_clickhouse_raw_data/script/s1_prepare_data.py:60 - INFO: create sample table: _1016_STF_EMP_IND_2
+2019-10-16 06:24:49,229 - /home/jupyter-wangxm/6_clickhouse_raw_data/script/s1_prepare_data.py:102 - INFO: merge data: 1016STF_EMP_IND_3
+2019-10-16 06:25:39,224 - /home/jupyter-wangxm/6_clickhouse_raw_data/script/s1_prepare_data.py:102 - INFO: merge data: _1016_STF_EMP_IND_3
+2019-10-16 06:25:48,833 - /home/jupyter-wangxm/6_clickhouse_raw_data/script/s1_prepare_data.py:30 - INFO: run query: desc _1016_STF_EMP_IND_3;

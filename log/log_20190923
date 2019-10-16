@@ -1,0 +1,7 @@
+2019-09-24 10:44:36,734 - /home/jupyter-wangxm/6_clickhouse_raw_data/s1_prepare_data.py:20 - INFO: login database: python_clickhouse_test
+2019-09-24 10:44:37,749 - /home/jupyter-wangxm/6_clickhouse_raw_data/s1_prepare_data.py:24 - INFO: run query: show tables;
+2019-09-24 10:44:48,801 - /home/jupyter-wangxm/6_clickhouse_raw_data/s1_prepare_data.py:24 - INFO: run query: select count() from basic_table
+2019-09-24 10:44:48,803 - /home/jupyter-wangxm/6_clickhouse_raw_data/s1_prepare_data.py:24 - INFO: run query: select count() from fraud_case_table
+2019-09-24 10:44:48,805 - /home/jupyter-wangxm/6_clickhouse_raw_data/s1_prepare_data.py:24 - INFO: run query: select count() from account_table
+2019-09-24 10:44:48,808 - /home/jupyter-wangxm/6_clickhouse_raw_data/s1_prepare_data.py:24 - INFO: run query: select count() from information_table
+2019-09-24 10:44:50,048 - /home/jupyter-wangxm/6_clickhouse_raw_data/s1_prepare_data.py:24 - INFO: run query: select * from information_table limit 5
